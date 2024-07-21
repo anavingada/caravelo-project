@@ -1,0 +1,36 @@
+{
+    "name": "caravelo-project",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.6.0",
+        "@fortawesome/vue-fontawesome": "^3.0.8",
+        "axios": "^1.7.2",
+        "babel": "^6.23.0",
+        "babel-helper-vue-jsx-merge-props": "^2.0.3",
+        "babel-plugin-transform-vue-jsx": "^3.7.0",
+        "bootstrap": "^5.3.3",
+        "bootstrap-vue": "^2.23.1",
+        "core-js": "^3.37.1",
+        "vue": "^3.4.33",
+        "vue-router": "^4.4.0"
+    },
+    "devDependencies": {
+        "@babel/eslint-parser": "^7.24.8",
+        "@vue/cli-plugin-babel": "^5.0.8",
+        "@vue/cli-plugin-eslint": "^5.0.8",
+        "@vue/cli-service": "^5.0.8",
+        "@vue/compiler-sfc": "^3.4.33",
+        "eslint": "^8.57.0",
+        "eslint-plugin-vue": "^9.27.0",
+        "vue-eslint-parser": "^9.4.3"
+    },
+    "prettier": {
+        "singleQuote": true
+    }
+}
